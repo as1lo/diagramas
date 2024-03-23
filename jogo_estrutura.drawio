@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T22:57:47.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="GH6Uj4sBKrJwznycDOPM" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T00:27:00.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="f1FyrITvzq0QJ0b3SdEL" version="24.0.8" type="github">
   <diagram name="Page-1" id="WxHSlVrrccDbhy-CtQRo">
     <mxGraphModel dx="1707" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,11 +98,8 @@
         <mxCell id="YspUFZVMCCBwBX6qZ45Q-25" value="O jogo apresenta progresso salvo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="560" width="147" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YspUFZVMCCBwBX6qZ45Q-26" value="Progresso Escolhido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="880" width="130" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="YspUFZVMCCBwBX6qZ45Q-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="212.5" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YspUFZVMCCBwBX6qZ45Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YspUFZVMCCBwBX6qZ45Q-29" target="YspUFZVMCCBwBX6qZ45Q-7">
           <mxGeometry relative="1" as="geometry">
@@ -114,16 +111,22 @@
         <mxCell id="YspUFZVMCCBwBX6qZ45Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YspUFZVMCCBwBX6qZ45Q-29" target="YspUFZVMCCBwBX6qZ45Q-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="420" />
-              <mxPoint x="273" y="420" />
+              <mxPoint x="335" y="410" />
+              <mxPoint x="273" y="410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YspUFZVMCCBwBX6qZ45Q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YspUFZVMCCBwBX6qZ45Q-29" target="YspUFZVMCCBwBX6qZ45Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YspUFZVMCCBwBX6qZ45Q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YspUFZVMCCBwBX6qZ45Q-29" target="YspUFZVMCCBwBX6qZ45Q-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YspUFZVMCCBwBX6qZ45Q-29" value="Selecionar Opção" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YspUFZVMCCBwBX6qZ45Q-34" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="YspUFZVMCCBwBX6qZ45Q-34" value="Selecionar Progresso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="193.75" y="790" width="157.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
